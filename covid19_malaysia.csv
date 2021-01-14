@@ -1,4 +1,4 @@
-date,new_cases,death
+date,daily_cases,daily_deaths
 16-Feb-20,0,0
 17-Feb-20,0,0
 18-Feb-20,0,0
@@ -327,3 +327,9 @@ date,new_cases,death
 6-Jan-21,2593,4
 7-Jan-21,3027,8
 8-Jan-21,2643,16
+9-Jan-21,2451,5
+10-Jan-21,2433,9
+11-Jan-21,2232,4
+12-Jan-21,3309,4
+13-Jan-21,2985,4
+14-Jan-21,3337,15
